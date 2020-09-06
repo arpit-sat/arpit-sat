@@ -1,7 +1,7 @@
 **Hi there 👋! Glad to see you here 😄**<br><br>
 As you must have realised by now, Hi, I am Arpit! I am currently an undergraduate student from IEM, India. I have experience in Cloud Computing and have built next-gen FaaS applications.
 
-🔭 I’m currently working on building mini applications on AWS. Feel free to check out my profile and yes, suggestions are always welcome ✨
+🔭 I’m currently working on building nodejs applications on AWS. Feel free to check out my profile and yes, suggestions are always welcome ✨
 
 💬 Ask me about anything I have written ⁠— we can have a nice chat virtually or if possible, we can meet over a cup of coffee ☕
 
