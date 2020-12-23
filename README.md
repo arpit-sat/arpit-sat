@@ -1,5 +1,5 @@
 **Hi there 👋! Glad to see you here 😄**<br><br>
-As you must have realised by now, Hi, I am Arpit! I am currently an undergraduate student from IEM, India. I have experience in Cloud Computing and have built next-gen FaaS applications.
+As you must have realised by now, Hi, I am Arpit! I am currently an undergraduate student from IEM,Kolkata. I have experience in Cloud Computing and have built next-gen FaaS applications.
 
 🔭 I’m currently working on ...Data Structures and Algorithms. Feel free to check out my profile and yes, suggestions are always welcome ✨
 
